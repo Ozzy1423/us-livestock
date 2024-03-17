@@ -1,2 +1,2 @@
 # us-livestock
-Python data analysis on US livestock
+Python data analysis on US livestock weights.
